@@ -1,4 +1,5 @@
 {
-  "version": "1.2.4",
-  "android": "https://github.com/063ghm19-jpg/063ghm19-jpg.github.io/releases/download/1.2.1/Teenycraft.1.2.1.Android.zip",
+  "version": "1.2.3",
+  "apk_url": "https://github.com/063ghm19-jpg/063ghm19-jpg.github.io/releases/download/1.2.1/Teenycraft.1.2.1.Android.zip",
+  "update_notes": "Update version 1.2.3."
 }
