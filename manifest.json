@@ -1,6 +1,5 @@
 {
-  "version": "1.2.9",
-  "windows": "https://github.com/063ghm19-jpg/063ghm19-jpg.github.io/releases/download/1.2.3/Teenycraft.1.2.3.Windows.zip",
-  "mac": "https://github.com/063ghm19-jpg/063ghm19-jpg.github.io/releases/download/1.2.1/Teenycraft.1.2.1.Mac.zip",
-  "linux": "https://github.com/063ghm19-jpg/063ghm19-jpg.github.io/releases/download/1.2.3/Teenycraft.1.2.3.Linux.zip"
+  "version": "1.3.0",
+  "windows": "https://github.com/063ghm19-jpg/063ghm19-jpg.github.io/releases/download/1.3.0Part1/Teenycraft.1.3.0.Windows.zip",
+  "linux": "https://github.com/063ghm19-jpg/063ghm19-jpg.github.io/releases/download/1.3.0Part1/Teenycraft.1.3.0.Linux.zip"
 }
